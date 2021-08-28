@@ -7,4 +7,4 @@ for x in range(1, 51, 1):
         elif x%5==0:
             print("Buzz") 
             else:
-            print(x)       
+            print(x)
