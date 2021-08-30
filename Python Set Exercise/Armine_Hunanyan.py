@@ -20,7 +20,7 @@ print(set1.difference(set2))
  
 #Ex4:
 set1 = {10, 20, 30, 40, 50}
-Expected output: {40, 50}
+#Expected output: {40, 50}
 print(set2.difference(set1))
 
 #Ex5:
