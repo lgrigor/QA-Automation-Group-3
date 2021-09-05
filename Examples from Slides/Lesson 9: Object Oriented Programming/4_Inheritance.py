@@ -26,6 +26,5 @@ class Triangle(Polygon):
 
 
 my_triangle = Triangle()
-
-
-print(issubclass())
+my_triangle.inputSides()
+my_triangle.findArea()
