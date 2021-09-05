@@ -18,19 +18,6 @@ class Class4(Class2, Class3):
 		print("In Class4")
 
 obj = Class4()
-
 obj.m()
 
-
-
-
-
-
-
-"""
-Class2.m(obj) # Output: In Class2
-Class3.m(obj) # Output: In Class3
-obj1 = Class1() # Output: In Class1
-obj1.m()
-"""
-#print(Class4.mro())
+print(Class4.mro())
