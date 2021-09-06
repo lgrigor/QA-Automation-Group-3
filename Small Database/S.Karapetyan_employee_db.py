@@ -13,6 +13,15 @@ from collections import namedtuple
 # 4. Print the names then IDs of all employees whose manager ID is 9523.
 # 5. Print the IDs, names and salaries of all QA engineers.
 
+def salary_total_amount(*args):
+        print("Total amount of the salary: ")
+        print(sum(x.salary for x in args))
+
+def greater_salary(*args):
+    for x in args:
+        if x.salary >= 1250:
+            print("Names of employees whose salary is greater than or equal to 1250: ",  x.emp_name)        
+        
 Employee = namedtuple('Employee',['emp_id','emp_name','job_name','manager_id','salary','dep_id'])
 
 employee1 = Employee(10024, 'Hadley_Sylvan', 'QA_Engineer', 9523, 1250, 4)
@@ -30,9 +39,6 @@ employee5 = Employee(10094, 'Gideon_Talia', 'QA_Engineer', 9567, 500, 5)
 # 1. Print the total amount of the salary.
 
 
-def salary_total_amount(*args):
-        print("Total amount of the salary: ")
-        print(sum(x.salary for x in args))
 
 salary_total_amount(employee5, employee4, employee3, employee2, employee1)
 
@@ -41,10 +47,7 @@ salary_total_amount(employee5, employee4, employee3, employee2, employee1)
 # 2. Print the names of all employees whose salary is greater than or equal to 1250.
 
 
-def greater_salary(*args):
-    for x in args:
-        if x.salary >= 1250:
-            print("Names of employees whose salary is greater than or equal to 1250: ",  x.emp_name)
+
 
 greater_salary(employee5, employee4, employee3, employee2, employee1)
 
