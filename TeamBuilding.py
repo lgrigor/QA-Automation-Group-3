@@ -1,6 +1,8 @@
 import time as tm
+
 date = '11․09․2021'
 place = 'Երևան Պանդոկ'
+
 while date == '11․09․2021':
      time = tm.strftime("%H:%M", tm.localtime())
      if time == '17:00':
