@@ -15,6 +15,7 @@ class BankAccount:
             print("impossible operation! Insufficient balance !")
         else:
             self.balance = self.balance - w
+            
     # create bankFees() method
     def bankFees(self):
         self.balance = (95/100)*self.balance
@@ -27,9 +28,12 @@ class BankAccount:
         
 # Testing the code :
 newAccount = BankAccount(2178514584, "Albert" , 2700)
+
 # Creating Withdrawal Test
 newAccount.Withdrawal(300)
+
 # Create deposit test
 newAccount.Deposit(200)
+
 # Display account informations
 newAccount.display()
