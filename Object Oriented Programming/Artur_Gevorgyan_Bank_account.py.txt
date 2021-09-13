@@ -1,0 +1,30 @@
+class BankAccount:
+    def __init__(self, accountNumber, name, balance):
+        self.accountNumber = accountNumber
+        self.name = name
+        self.balance = balance
+        
+    def deposit(self, dep ):
+        self.balance = self.balance + dep
+        
+    def withdrawal(self, w):
+        if (self.balance < w):
+            print('Insufficient balance')
+        else:
+            self.balance = self.balance - w
+    
+    def bankFees(self):
+        self.balance = (95/100)*self.balance
+        
+    def display (self):
+        print("Account Number : " , self.accountNumber)
+        print("Account Name : " , self.name)
+        print("Account Balance : " , self.balance , "$")
+
+newAccount = BankAccount(4565484, "Artur" , 1000000)
+
+newAccount.withdrawal(5000)
+
+newAccount.deposit(6000)
+
+newAccount.display() 
