@@ -1,19 +1,16 @@
 import re
 
-#
 # Print randomly
 def print_randomly():
     for word, count in dictionary.items():
         print(f'{word} - {count}')
 
-#
 # Print by alphabet
 def print_alphabet():
     sorted_words = list(dictionary.keys())
     for word in sorted(sorted_words):
         print(f'{word} - {dictionary[word]}')
 
-#
 # if revers=True print by decreasing, else if revers=True print by ascending
 def print_decreasing(type):
     sorted_counts = sorted(list(dictionary.values()), reverse=type)
