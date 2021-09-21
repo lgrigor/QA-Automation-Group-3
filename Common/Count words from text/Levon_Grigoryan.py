@@ -30,6 +30,7 @@ def print_decreasing(type):
                 
 f = open (r"C:\Users\Levon Grigoryan\Desktop\Visual Studio Code\Practice\text.txt", "r")
 all_lines = f.readlines()
+f.close()
 #print(all_lines, end='')
 #exit(0)
 
