@@ -1,3 +1,5 @@
+# Susanna, Aram, Mary, Armine
+
 import re
 
 file = open("/Users/susannakarapetyan/PythonACA/basic/bdg_file.txt")
