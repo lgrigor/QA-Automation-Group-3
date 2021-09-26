@@ -1,3 +1,4 @@
+# Lyudmila, Seda, Gohar
 import re
 
 outfile = open("/home/lyuka/Downloads/text.txt", "r")
