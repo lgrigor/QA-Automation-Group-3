@@ -1,0 +1,18 @@
+<html>
+  <script>
+    function ClearButtonFunction() {
+      alert("Clear button was pressed!");
+    }
+    function LoginButtonFunction() {
+      alert("Login button was pressed!");
+    }
+  </script>
+ <body>
+  <form id="loginForm">
+   <input name="username" type="text" />
+   <input name="password" type="password" />
+   <input name="continue" type="submit" value="Login" onclick="LoginButtonFunction()"/>
+   <input name="continue" type="button" value="Clear" onclick="ClearButtonFunction()"/>
+  </form>
+</body>
+</html>
