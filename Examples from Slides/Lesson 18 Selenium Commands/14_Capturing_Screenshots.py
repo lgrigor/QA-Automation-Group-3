@@ -19,7 +19,7 @@ browser.set_page_load_timeout(10)
 browser.save_screenshot(FIRST_SCREENSHOT)
 browser.find_element(By.XPATH, '//yt-img-shadow/img[@width="9999"]').click()
 
-wait = WebDriverWait(browser, 1)
+wait = WebDriverWait(browser, 5)
 wait.until(EC.presence_of_element_located((By.XPATH, "//span[@class='ytp-time-current' and text()='0:01']")))
 browser.save_screenshot(SECOND_SCREENSHOT)
 browser.quit()
