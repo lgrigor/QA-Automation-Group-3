@@ -14,6 +14,6 @@ def test_with_named_link():
 def test_with_issue_link():
     pass
 
-@allure.testcase(TEST_CASE_LINK, 'Test case path')
+@allure.testcase(TEST_CASE_LINK, 'Test case title')
 def test_with_testcase_link():
     pass
