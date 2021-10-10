@@ -1,6 +1,6 @@
 import allure
 
-TEST_CASE_LINK = 'https://github.com/qameta/allure-integrations/issues/8#issuecomment-268313637'
+TEST_CASE_LINK = r'https://github.com/lgrigor/Homeworks/blob/main/Examples%20from%20Slides/Lesson%2020%20Allure%20Framework/test_Links.py'
 
 @allure.link('https://www.youtube.com/watch?v=NeQM1c-XCDc')
 def test_with_link():
@@ -14,6 +14,6 @@ def test_with_named_link():
 def test_with_issue_link():
     pass
 
-@allure.testcase(TEST_CASE_LINK, 'Test case title')
+@allure.testcase(TEST_CASE_LINK, 'Test case path')
 def test_with_testcase_link():
     pass
