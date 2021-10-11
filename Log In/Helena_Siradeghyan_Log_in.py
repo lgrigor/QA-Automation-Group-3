@@ -4,7 +4,7 @@ from typing import Text
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-PATH = ('D:\driver\chromedriver.exe')
+PATH = 'D:\driver\chromedriver.exe'
 driver = webdriver.Chrome(PATH)
 driver.get("https://www.saucedemo.com/")
 driver.maximize_window()
