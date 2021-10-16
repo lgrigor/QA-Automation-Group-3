@@ -1,7 +1,7 @@
 import allure
 import pytest
 
-@allure.step()
+@allure.step
 def passing_step():
     pass
 
