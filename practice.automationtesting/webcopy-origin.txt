@@ -1,0 +1,1128 @@
+Uri: http://practice.automationtesting.in/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/comments/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-builder/css/themify-builder-style.css?ver=2.8.8
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\themify-builder\css\themify-builder-style.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.4.8
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\instagram-feed\css\sb-instagram.min.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/table-maker/css/style.css?ver=1.6
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\table-maker\css\style.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-icons.css?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce-menu-bar-cart\css\wpmenucart-icons.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/css/wpmenucart-main.css?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce-menu-bar-cart\css\wpmenucart-main.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Abril+Fatface:regular&subset=latin%2Call&ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\css.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/css/themify.framework.css?ver=2.8.8
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\css\themify.framework.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&subset=latin%2Clatin-ext&ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\css-1.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-icons/themify-icons.css?ver=2.8.8
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\themify-icons\themify-icons.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/style.css?ver=1.5.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\style.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/media-queries.css?ver=1.5.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\media-queries.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/styles/woocommerce.css?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\styles\woocommerce.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/styles/header-top-bar.css?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\styles\header-top-bar.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/css/font-awesome.min.css?ver=2.8.8
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/themify-customizer.css?ver=17.02.20.03.05.29
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\themify-customizer.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=PT+Sans:normal%2Cbold|PT+Sans&subset=latin&ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\css-2.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/themify-css/themify-builder-22-generated.css?ver=17.02.24.07.51.50
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\themify-css\themify-builder-22-generated.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-content/cache/nextend/web/n2-ss-6/n2-ss-6.css?1587120068
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\cache\nextend\web\n2-ss-6\n2-ss-6.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-json/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/shop/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/my-account/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\my-account\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/test-cases/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\test-cases\index.htm
+Content Type: text/html
+
+Uri: http://automationtesting.in/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\index-2.htm
+Content Type: text/html
+
+Uri: http://demo.automationtesting.in/Register.html
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\Register.html
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/selenium-ruby/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\selenium-ruby\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/?add-to-cart=160
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\index-3.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/thinking-in-html/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\thinking-in-html\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/?add-to-cart=163
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\index-4.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/mastering-javascript/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\mastering-javascript\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/?add-to-cart=165
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\index-5.htm
+Content Type: text/html
+
+Uri: https://twitter.com/krishnasakinala
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\krishnasakinala.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/automationtesting2016/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\automationtesting2016\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\channel\UCmQRa3pWM9zsB474URz8ESg.html
+Content Type: text/html
+
+Uri: https://www.linkedin.com/nhome/?trk=hb_signin
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\nhome\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/cache/nextend/web/n2/n2.js?1487559425
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\cache\nextend\web\n2\n2.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js?1487559085
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\smart-slider-3\nextend\media\dist\nextend-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js?1487559088
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\smart-slider-3\library\media\dist\smartslider-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1487559085
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\smart-slider-3\library\media\plugins\type\simple\simple\dist\smartslider-simple-type-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/cache/nextend/web/n2-ss-6/n2-ss-6.js?1587120068
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\cache\nextend\web\n2-ss-6\n2-ss-6.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/color-logo-original.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\color-logo-original.png
+Content Type: image/png
+
+Uri: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Shop-For-Selenium-Books.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Shop-For-Selenium-Books.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/HTML.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\HTML.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/JavaScript.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\JavaScript.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Selenium-Ruby-300x300.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Selenium-Ruby-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Thinking-in-HTML-300x300.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Thinking-in-HTML-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-JavaScript-300x300.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-JavaScript-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/js/main.js?ver=2.8.8
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\js\main.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\contact-form-7\includes\js\jquery.form.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.4.8
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\instagram-feed\js\sb-instagram.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\jquery-cookie\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/themify.mega-menu.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\js\themify.mega-menu.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/jquery.nicescroll.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\js\jquery.nicescroll.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/js/themify.sidemenu.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\js\themify.sidemenu.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/jquery.isotope.min.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\js\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/themify.script.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\js\themify.script.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-includes/js/comment-reply.min.js?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-includes/js/wp-embed.min.js?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.0.13
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\mailchimp-for-wp\assets\js\forms-api.min.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\tcc\tcc_l.combined.1.0.6.min.js
+Content Type: application/x-javascript
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Selenium-Ruby-150x150.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Selenium-Ruby-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Selenium-Ruby-180x180.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Selenium-Ruby-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Selenium-Ruby-600x600.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Selenium-Ruby-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Thinking-in-HTML-150x150.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Thinking-in-HTML-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Thinking-in-HTML-180x180.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Thinking-in-HTML-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Thinking-in-HTML-600x600.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Thinking-in-HTML-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-JavaScript-150x150.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-JavaScript-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-JavaScript-180x180.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-JavaScript-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-JavaScript-600x600.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-JavaScript-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-builder/img/slider-loader.gif
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\themify-builder\img\slider-loader.gif
+Content Type: image/gif
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/instagram-feed/img/loader.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\instagram-feed\img\loader.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/instagram-feed/img/small-logo.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\instagram-feed\img\small-logo.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/table-maker/font/wpsm-icons.eot?-jgkfsj
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\table-maker\font\wpsm-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/table-maker/font/wpsm-icons.eot?
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\table-maker\font\wpsm-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/table-maker/font/wpsm-icons.woff?-jgkfsj
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\table-maker\font\wpsm-icons.woff
+Content Type: font/woff
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/table-maker/font/wpsm-icons.ttf?-jgkfsj
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\table-maker\font\wpsm-icons.ttf
+Content Type: font/ttf
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/table-maker/font/wpsm-icons.svg?-jgkfsj
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\table-maker\font\wpsm-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/table-maker/img/editor_badge.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\table-maker\img\editor_badge.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/font/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce-menu-bar-cart\font\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/font/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce-menu-bar-cart\font\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/font/fontawesome-webfont.woff?v=4.2.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce-menu-bar-cart\font\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce-menu-bar-cart/font/fontawesome-webfont.ttf?v=4.2.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce-menu-bar-cart\font\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-icons/themify.eot
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\themify-icons\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-icons/themify.woff
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\themify-icons\themify.woff
+Content Type: font/woff
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-icons/themify.ttf
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\themify-icons\themify.ttf
+Content Type: font/ttf
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/themify-icons/themify.svg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\themify-icons\themify.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\fontawesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\fontawesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/themify/fontawesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\themify\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://practice.automationtesting.in/shop/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product/android-quick-start-guide/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\android-quick-start-guide\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=169
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/functional-programming-in-js/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\functional-programming-in-js\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=170
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/html5-forms/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-forms\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=181
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-3.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/html5-webapp-develpment/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-webapp-develpment\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=182
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-4.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/learning-javascript-data-structures-and-algorithm/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\learning-javascript-data-structures-and-algorithm\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=180
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-5.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=165
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-6.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=160
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-7.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/shop/?add-to-cart=163
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\shop\index-8.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/android/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\android\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/html/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\html\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/javascript/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\javascript\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/selenium/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\selenium\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-300x300.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Android-Quick-Start-Guide-300x300.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Functional-Programming-in-JS-300x300.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Functional-Programming-in-JS-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-HTML5-Forms-300x300.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-HTML5-Forms-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/HTML5-Web-Application-Development-Beginners-guide-300x300.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\HTML5-Web-Application-Development-Beginners-guide-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Learning-JavaScript-Data-Structures-and-Algorith-300x300.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Learning-JavaScript-Data-Structures-and-Algorith-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/themes/themify-ultra/js/jquery.infinitescroll.min.js?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\themes\themify-ultra\js\jquery.infinitescroll.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\jquery-ui-touch-punch\jquery-ui-touch-punch.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\price-slider.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-150x150.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Android-Quick-Start-Guide-150x150.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-180x180.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Android-Quick-Start-Guide-180x180.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide-600x600.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Android-Quick-Start-Guide-600x600.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Functional-Programming-in-JS-150x150.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Functional-Programming-in-JS-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Functional-Programming-in-JS-180x180.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Functional-Programming-in-JS-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Functional-Programming-in-JS-600x600.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Functional-Programming-in-JS-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-HTML5-Forms-150x150.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-HTML5-Forms-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-HTML5-Forms-180x180.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-HTML5-Forms-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-HTML5-Forms-600x600.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-HTML5-Forms-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/HTML5-Web-Application-Development-Beginners-guide-150x150.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\HTML5-Web-Application-Development-Beginners-guide-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/HTML5-Web-Application-Development-Beginners-guide-180x180.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\HTML5-Web-Application-Development-Beginners-guide-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/HTML5-Web-Application-Development-Beginners-guide-600x600.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\HTML5-Web-Application-Development-Beginners-guide-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Learning-JavaScript-Data-Structures-and-Algorith-150x150.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Learning-JavaScript-Data-Structures-and-Algorith-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Learning-JavaScript-Data-Structures-and-Algorith-180x180.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Learning-JavaScript-Data-Structures-and-Algorith-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Learning-JavaScript-Data-Structures-and-Algorith-600x600.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Learning-JavaScript-Data-Structures-and-Algorith-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/select2.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fmy-account%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fmy-account%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/my-account/lost-password/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/select2/select2.min.js?ver=3.5.4
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-admin/js/password-strength-meter.min.js?ver=4.7.5
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/themify-css/themify-builder-222-generated.css?ver=17.02.24.07.51.50
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\themify-css\themify-builder-222-generated.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Ftest-cases%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Ftest-cases%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/product/selenium-ruby/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\selenium-ruby\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fselenium-ruby%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fselenium-ruby%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Selenium-Ruby.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Selenium-Ruby.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/product-tag/ruby/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\ruby\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/selenium/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\selenium\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\prettyPhoto\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\prettyPhoto\jquery.prettyPhoto.init.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/basket/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\basket\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/thinking-in-html/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\thinking-in-html\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fthinking-in-html%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fthinking-in-html%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Thinking-in-HTML.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Thinking-in-HTML.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/product-tag/html/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\html\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/thinking-in-html/?add-to-cart=182
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\thinking-in-html\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/thinking-in-html/?add-to-cart=181
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\thinking-in-html\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/mastering-javascript/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\mastering-javascript\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fmastering-javascript%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fmastering-javascript%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-JavaScript.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-JavaScript.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/product-tag/javascript/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\javascript\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/mastering/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\mastering\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/mastering-javascript/?add-to-cart=170
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\mastering-javascript\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/mastering-javascript/?add-to-cart=180
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\mastering-javascript\index-2.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/105286300926085335367&followup=https://plus.google.com/105286300926085335367
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\ServiceLogin.html
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/android-quick-start-guide/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\android-quick-start-guide\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fandroid-quick-start-guide%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fandroid-quick-start-guide%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Android-Quick-Start-Guide.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Android-Quick-Start-Guide.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/product-tag/android/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\android\index.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/functional-programming-in-js/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\functional-programming-in-js\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Ffunctional-programming-in-js%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Ffunctional-programming-in-js%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Functional-Programming-in-JS.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Functional-Programming-in-JS.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/product/functional-programming-in-js/?add-to-cart=165
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\functional-programming-in-js\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/functional-programming-in-js/?add-to-cart=180
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\functional-programming-in-js\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/html5-forms/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-forms\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fhtml5-forms%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fhtml5-forms%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Mastering-HTML5-Forms.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Mastering-HTML5-Forms.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/product/html5-forms/?add-to-cart=182
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-forms\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/html5-forms/?add-to-cart=163
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-forms\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/html5-webapp-develpment/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-webapp-develpment\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fhtml5-webapp-develpment%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Fhtml5-webapp-develpment%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/HTML5-Web-Application-Development-Beginners-guide.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\HTML5-Web-Application-Development-Beginners-guide.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/product/html5-webapp-develpment/?add-to-cart=163
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-webapp-develpment\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/html5-webapp-develpment/?add-to-cart=181
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\html5-webapp-develpment\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/learning-javascript-data-structures-and-algorithm/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\learning-javascript-data-structures-and-algorithm\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Flearning-javascript-data-structures-and-algorithm%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fproduct%2Flearning-javascript-data-structures-and-algorithm%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/uploads/2017/01/Learning-JavaScript-Data-Structures-and-Algorith.jpg
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\uploads\2017\01\Learning-JavaScript-Data-Structures-and-Algorith.jpg
+Content Type: image/jpeg
+
+Uri: http://practice.automationtesting.in/product/learning-javascript-data-structures-and-algorithm/?add-to-cart=160
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\learning-javascript-data-structures-and-algorithm\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/learning-javascript-data-structures-and-algorithm/?add-to-cart=170
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\learning-javascript-data-structures-and-algorithm\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product/learning-javascript-data-structures-and-algorithm/?add-to-cart=165
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product\learning-javascript-data-structures-and-algorithm\index-3.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/android/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\android\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-category/android/?add-to-cart=169
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\android\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/html/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\html\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-category/html/?add-to-cart=181
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\html\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/html/?add-to-cart=182
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\html\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/html/?add-to-cart=163
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\html\index-3.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/javascript/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\javascript\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-category/javascript/?add-to-cart=170
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\javascript\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/javascript/?add-to-cart=180
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\javascript\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/javascript/?add-to-cart=165
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\javascript\index-3.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-category/selenium/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\selenium\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-category/selenium/?add-to-cart=160
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-category\selenium\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/select2.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\select2.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/select2-spinner.gif
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\select2-spinner.gif
+Content Type: image/gif
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/images/select2x2.png
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\images\select2x2.png
+Content Type: image/png
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://schema.org/InStock
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\InStock.html
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/ruby/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\ruby\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-tag/ruby/?add-to-cart=160
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\ruby\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/selenium/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\selenium\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-tag/selenium/?add-to-cart=160
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\selenium\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fbasket%2F
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://practice.automationtesting.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fpractice.automationtesting.in%2Fbasket%2F&format=xml
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=2.6.14
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: http://practice.automationtesting.in/product-tag/html/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\html\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-tag/html/?add-to-cart=181
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\html\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/html/?add-to-cart=182
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\html\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/html/?add-to-cart=163
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\html\index-3.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/javascript/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\javascript\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-tag/javascript/?add-to-cart=170
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\javascript\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/javascript/?add-to-cart=180
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\javascript\index-2.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/javascript/?add-to-cart=165
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\javascript\index-3.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/mastering/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\mastering\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-tag/mastering/?add-to-cart=165
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\mastering\index-1.htm
+Content Type: text/html
+
+Uri: http://practice.automationtesting.in/product-tag/android/feed/
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\android\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://practice.automationtesting.in/product-tag/android/?add-to-cart=169
+File Name: C:\Downloaded Web Sites\practice.automationtesting.in\product-tag\android\index-1.htm
+Content Type: text/html
+
