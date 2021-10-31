@@ -36,19 +36,19 @@ currentURL = browser.current_url
 #9) Image should be clickable and shoul navigate to next page where user can add that book to his basket
 assert currentURL_before_Click_onPicture != currentURL, "User did not navigate to next page"
 
-itemCount_Before_AddingNewItem_inBasket = browser.find_element(By.XPATH, "//li[@id='wpmenucartli']//span[@class='cartcontents']").text
-listItemCount = str(itemCount_Before_AddingNewItem_inBasket).split()
-itemCount_Before_AddingNewItem = listItemCount[0]
+BasketItemCount = browser.find_element(By.XPATH, "//li[@id='wpmenucartli']//span[@class='cartcontents']").text
+listItemCount = str(BasketItemCount).split()
+itemBeforeAddingNewItem = listItemCount[0]
 
 #10) Click on the Add To Basket button which adds that book to your basket
 browser.find_element(By.XPATH, "//div[@id='content']/div//button[@type='submit']").click()
 
-itemCount_After_AddingNewItem_inBasket = browser.find_element(By.XPATH, "//li[@id='wpmenucartli']//span[@class='cartcontents']").text
-listItemCount = str(itemCount_After_AddingNewItem_inBasket).split()
-itemCount_After_AddingNewItem = listItemCount[0]
+BasketItemCountAfter = browser.find_element(By.XPATH, "//li[@id='wpmenucartli']//span[@class='cartcontents']").text
+listItemCount = str(BasketItemCountAfter).split()
+itemAfterAddingNewItem = listItemCount[0]
 
 #11) User can view that Book in the Menu item with price.
-assert itemCount_Before_AddingNewItem < itemCount_After_AddingNewItem, "Something went incorrect, item did not added in Basket"
+assert itemBeforeAddingNewItem < itemAfterAddingNewItem, "Something went incorrect, item did not added in Basket"
 
 #12) Click on Item link which navigates to proceed to check out page.
 browser.find_element(By.ID, "wpmenucartli").click()
@@ -94,3 +94,5 @@ browser.find_element(By.XPATH, "//input[@id='place_order']").click()
 #with order details,bank details,customer details and billing details.
 message = browser.find_element(By.XPATH, "//p[@class='woocommerce-thankyou-order-received']").text
 assert message == "Thank you. Your order has been received.", "User did not completed the order process"
+
+browser.close()
