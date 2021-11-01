@@ -1,12 +1,3 @@
-#1) Open the browser
-#2) Enter the URL “”
-#3) Click on My Account Menu
-#4) Enter registered Email Address in Email-Address textbox
-#5) Enter your own password in password textbox
-#6) Click on Register button
-#7) User will be registered successfully and will be navigated to the Home page
-
-
 import time
 from selenium import webdriver
 
@@ -22,16 +13,17 @@ PASSWORD = 'd1$^%S$dw123$dSDADSsa4_^$d+'
 chrome_options = Options()
 chrome_options.add_argument('--start-maximized')
 chrome_options.add_argument('--log-level=3')
+#chrome_options.add_argument('--headless')
 
 browser = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=chrome_options)
 browser.get('http://practice.automationtesting.in/')
-browser.set_page_load_timeout(10)
-browser.implicitly_wait(10)
+browser.set_page_load_timeout(15)
+browser.implicitly_wait(15)
 
 
-browser.find_element(By.ID, 'menu-item-40').click()
+#browser.find_element(By.ID, 'menu-item-40').click()
 
-browser.find_element(By.XPATH, '//div[@id="content"]/nav/a[text()= "Home"]').click()
+#browser.find_element(By.XPATH, '//div[@id="content"]/nav/a[text()= "Home"]').click()
 
 browser.execute_script("window.scrollTo(0,document.body.scrollHeight)")
 
@@ -58,18 +50,16 @@ assert top_amount.text == amount.text, 'Amount text is wrong!'
 item = browser.find_element(By.XPATH, '//span[@class="cartcontents"]').click()
 
 
-subtotal = browser.find_element(By.XPATH, '//tr[@class="cart-subtotal"]/td[@data-title="Subtotal"]/span[@class="woocommerce-Price-amount amount"]')
-total = browser.find_elements(By.XPATH, '//span[@class="woocommerce-Price-amount amount"]')
-print(total)
+total = float(browser.find_element(By.XPATH, '//td[@data-title="Total"]/strong/span').text[1:])
+subtotal = float(browser.find_element(By.XPATH, '//td[@data-title="Subtotal"]/span').text[1:])
 
-exit(0)
-assert subtotal.text < total.text, 'It is wrong!'
+assert subtotal < total, f'subtotal is greater or equal to total: total - {total}, subtotal - {subtotal}'
 
 # browser.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-browser.find_element(By.LINK_TEXT, '//a[text()= "Proceed to Checkout"]').click()
+browser.find_element(By.XPATH, '//div[@class="wc-proceed-to-checkout"]/a').click()
 
-# browser.find_element(By.ID, 'billing_first_name').send_keys("Susanna")
+browser.find_element(By.ID, 'billing_first_name').send_keys("Susanna")
 
-
+time.sleep(5)
 
 browser.quit()
