@@ -9,8 +9,6 @@ db = mysql.connect(
 )
 
 cursor = db.cursor()
-# cursor.execute("DROP TABLE employee")
-# db.commit()
 cursor.execute("""CREATE TABLE employee (
     emp_name VARCHAR(100),
     job_name VARCHAR(100),
