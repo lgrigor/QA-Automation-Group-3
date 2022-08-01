@@ -96,3 +96,6 @@ message = browser.find_element(By.XPATH, "//p[@class='woocommerce-thankyou-order
 assert message == "Thank you. Your order has been received.", "User did not completed the order process"
 
 browser.close()
+
+
+### Good Job !!!
