@@ -1,2 +1,3 @@
-# Homeworks
-BDG 2021 Automation QA
+# QA-Automation-Group-3
+
+BDG 2021 QA Automation: Homework tasks and more
